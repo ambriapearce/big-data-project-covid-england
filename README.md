@@ -1,50 +1,20 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2821
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+COVID-19 Data Visualisation.
 
-\f0\fs36 \cf0 24COP511 Coursework - COVID-19 Data Visualisation.\
-\
+Description
 
-\f1\b\fs28 \ul Description\
+This tableau file visualises daily new COVID-19 cases and hospital admissions across different regions in the UK. It highlights trends and provides filters to explore specific regions.
 
-\f0\b0\fs24 \ulnone \
-This tableau file visualises daily new COVID-19 cases and hospital admissions across different regions in the UK. It highlights trends and provides filters to explore specific regions.\
-\
+Included File
 
-\f1\b\fs28 \ul Included File\
+	•	“nhsRegion_newAdmissions.csv” - One of the raw data file used in Tableau.
+	•	“region_newCasesBySpecimen.csv” - One of the raw data file used in Tableau.
+	•	“24COP511_COVID_Visualisation.twbx” - The Tableau file.
+	•	“README.txt” - This file containing project Information. 
 
-\f0\b0\fs24 \ulnone \
-\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
-\ls1\ilvl0\cf0 {\listtext	\uc0\u8226 	}\'93nhsRegion_newAdmissions.csv\'94 - One of the raw data file used in Tableau.\
-{\listtext	\uc0\u8226 	}\'93region_newCasesBySpecimen.csv\'94 - One of the raw data file used in Tableau.\
-{\listtext	\uc0\u8226 	}\'9324COP511_COVID_Visualisation.twbx\'94 - The Tableau file.\
-{\listtext	\uc0\u8226 	}\'93README.txt\'94 - This file containing project Information. \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 \
-\
 
-\f1\b\fs28 \ul How to Open\
+How to Open
 
-\f0\b0\fs24 \ulnone \
-\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
-\ls2\ilvl0\cf0 {\listtext	1.	}Open Tableau Desktop.\
-{\listtext	2.	}Open \'9324COP511_COVID_Visualisation.twbx\'94\
-\ls2\ilvl0{\listtext	3.	}The data source is embedded inside the Tableau file.\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 \
+	1.	Open Tableau Desktop.
+	2.	Open “24COP511_COVID_Visualisation.twbx”
+	3.	The data source is embedded inside the Tableau file.
 
-\f1\b\fs28 \ul Author :
-\f0\b0 \ulnone  F415860
-\fs36 \
-
-\fs24 \
-\
-\
-\
-}
