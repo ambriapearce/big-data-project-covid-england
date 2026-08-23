@@ -44,7 +44,9 @@ The visualisation was designed to:
 - **nhsRegion_newAdmissions.csv** - Raw data containing NHS regional hospital admissions.
 - **region_newCasesBySpecimen.csv** - Raw data containing reported COVID-19 cases by region and specimen date.
 - **24COP11_COVID_Visualisation.twbx** - Tableau workbook containing the interactive visualisation and embedded data sources.
-- **Covid-19_Visualisation_presentation.pdf** - PDF version of the project presentation, including the visualisation, analysis and findings.
+- **24COP511 - Visual data coursework.pdf** - PDF version of the project presentation, including the visualisation, analysis and findings.
+
+> **Note:** GitHub's browser preview may display an error when rendering this PDF. The file itself is intact and can be downloaded and viewed normally.
   
 ---
 
@@ -59,7 +61,7 @@ The visualisation was designed to:
 
 ## Project Presentation
 
-For an overview of the analysis, visualisations and findings, see **Covid-19_Visualisation_presentation.pdf**.
+For an overview of the analysis, visualisations and findings, see **24COP511 - Visual data coursework.pdf**.
 
 The interactive Tableau workbook can be opened using Tableau Desktop to explore the visualisations and filters directly.
 
